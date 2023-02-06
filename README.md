@@ -59,6 +59,7 @@ this project consists of two parts:
        (this input is the output of the syntax-tree of Constant and variable declaration)
        
   Output:
+  
   <img width="371" alt="Capture d'écran_20230206_225923" src="https://user-images.githubusercontent.com/96086924/217101987-22e09c16-1b80-4907-828b-71d7233d4ca1.png">
 
 
