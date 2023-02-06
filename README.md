@@ -42,9 +42,15 @@ this project consists of two parts:
        (this input is the output of the syntax-tree of Constant and variable declaration)
   Output:
          <img width="371" alt="Capture d'écran_20230206_225923" src="https://user-images.githubusercontent.com/96086924/217100453-0c215380-1a99-4719-9102-c6ac3990c441.png">
+         
+         
   b.interface of If-then-else condition.
   Input:
        arbre=['if', [['>'], ['x'], [['+'], ['a'], ['6']]], 'then', '{', [[['='], ['x'], [['+'], ['v'], ['7']]]], '}', 'else', '{', [[['='], ['v'], ['66']]], '}']
        (this input is the output of the syntax-tree of If-then-else condition)
+       
+       
   Output:
+  
+  
        <img width="430" alt="Capture d'écran_20230206_232354" src="https://user-images.githubusercontent.com/96086924/217101174-cff3fba2-b791-44ee-8ce7-fb4ecb246764.png">
