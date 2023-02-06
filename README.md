@@ -59,9 +59,8 @@ this project consists of two parts:
        (this input is the output of the syntax-tree of Constant and variable declaration)
        
   Output:
-  
-         
-         <img width="371" alt="Capture d'écran_20230206_225923" src="https://user-images.githubusercontent.com/96086924/217101832-8d95a9cb-cf94-4e11-9629-fe55189b5c9b.png">
+  <img width="371" alt="Capture d'écran_20230206_225923" src="https://user-images.githubusercontent.com/96086924/217101987-22e09c16-1b80-4907-828b-71d7233d4ca1.png">
+
 
          
   b.interface of If-then-else condition.
@@ -76,5 +75,5 @@ this project consists of two parts:
   Output:
   
   
-       <img width="430" alt="Capture d'écran_20230206_232354" src="https://user-images.githubusercontent.com/96086924/217101866-5b3a9978-c6fc-4e46-b879-67931ca44fec.png">
+  <img width="430" alt="Capture d'écran_20230206_232354" src="https://user-images.githubusercontent.com/96086924/217101866-5b3a9978-c6fc-4e46-b879-67931ca44fec.png">
 
