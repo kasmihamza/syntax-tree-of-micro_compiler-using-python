@@ -60,8 +60,9 @@ this project consists of two parts:
        
   Output:
   
-         <img width="371" alt="Capture d'écran_20230206_225923" src="https://user-images.githubusercontent.com/96086924/217100453-0c215380-1a99-4719-9102-c6ac3990c441.png">
          
+         <img width="371" alt="Capture d'écran_20230206_225923" src="https://user-images.githubusercontent.com/96086924/217101832-8d95a9cb-cf94-4e11-9629-fe55189b5c9b.png">
+
          
   b.interface of If-then-else condition.
   
@@ -75,4 +76,5 @@ this project consists of two parts:
   Output:
   
   
-       <img width="430" alt="Capture d'écran_20230206_232354" src="https://user-images.githubusercontent.com/96086924/217101174-cff3fba2-b791-44ee-8ce7-fb4ecb246764.png">
+       <img width="430" alt="Capture d'écran_20230206_232354" src="https://user-images.githubusercontent.com/96086924/217101866-5b3a9978-c6fc-4e46-b879-67931ca44fec.png">
+
